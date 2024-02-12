@@ -33,7 +33,7 @@ This modern landing page is a showcase of Tailwind CSS and React.js combined in 
    ```bash
    npm run dev
    ```
-   Open your browser and go to `http://localhost:3000` to view the landing page.
+   Open your browser and go to `http://localhost:5173` to view the landing page.
 
 5. **Build for production:**
    ```bash
