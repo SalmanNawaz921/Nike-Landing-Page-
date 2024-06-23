@@ -1,7 +1,4 @@
 # Nike Landing Page
-
-[Click For Preview](https://nike-landing-page-sn.netlify.app/)
-
 This modern landing page is a showcase of Tailwind CSS and React.js combined in a Vite React app.
 
 ## Features
